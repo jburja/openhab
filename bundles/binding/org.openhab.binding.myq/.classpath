@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/async-http-client-1.9.29.jar" sourcepath="C:/Users/jeff/.m2/repository/com/ning/async-http-client/1.9.29/async-http-client-1.9.29-sources.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.3.1.jar" sourcepath="C:/temp/gson-master"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
